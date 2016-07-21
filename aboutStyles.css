@@ -1,0 +1,96 @@
+/* CSS Document */
+body {
+	background-color: #9f9e9e;
+	font-family: Arial, Times New Roman, sans-serif;
+	
+}
+
+div#parent {
+	width: 780px;
+	background-color: #fff;
+	margin: 0 auto;
+	
+}
+
+div#header {
+	height: 80px;
+	
+}
+
+div#subHeader {
+	height: 88px;
+	background-color: #5C6F13;
+}
+
+div#topNav {
+	text-align: right;
+	font-size: 16px;
+	float:right
+}
+
+div#topNav a {
+	color: #000;
+	text-decoration:none;
+	margin: 5px;
+}
+	
+div#topNav a:hover {
+	text-decoration: underline;
+}
+	
+div#leftSide {
+	width: 30%; 
+	background-color:#C4DDCB;
+}	
+
+div#leftSide div#leftNav {
+	display: inline-block;
+	background-color:#C4DDCB;
+	min-height: 500px;
+	float: left;
+
+	
+}
+div#leftSide div#login {
+		position: ;
+		
+}
+
+div# parent div#rightSide {
+	width: 60%;
+	float: right;
+	
+}
+	
+	
+div#rightSide h2 {
+	text-transform: uppercase;
+	color: #D60003;
+	font-size: 15px;
+	font-weight: heavy;
+	margin: 5 5 10 25;
+}
+
+div#pic {
+	float: right;	
+	margin: 3px;
+}
+div#botNav a {
+	padding: 0 10px 0;
+	color: #000000;
+	text-decoration: none;
+	text-transform: lowercase;
+	padding: 5px;
+		
+}
+
+	
+div#footer {
+	background-color: #796f02; 
+	color: #fff;
+	font-size: 10px;
+	text-align: center; 
+	padding: 10px 0;
+	width: 780px;
+	
+}
